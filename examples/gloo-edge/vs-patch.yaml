@@ -1,5 +1,0 @@
-spec:
-  virtualHost:
-    options:
-      extauth:
-        customAuth: {}
